@@ -1,0 +1,8 @@
+flask
+requests
+adafruit-circuitpython-dht
+python-kasa
+blinkpy
+jetson-inference
+
+
